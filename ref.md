@@ -22,26 +22,6 @@
 
 10. 高阶函数、发布订阅和观察者模式、Promise 核心应用、generator 和实现 co 库、async+await 原理、实现完整的 PromiseA+类库，包含 reace、all、finally、try 等方法
 
-## Vue 全家桶实战
-
-1. Vue 基础 什么是 Vue?、Vue 的使用、Vue 常见的指令、Vue 的事件绑定和属性绑定、Vue 中的计算属性、computed 和 watch 的应用、表单中的数据绑定、手写 Vue 中的响应式原理、MVVM 手写实现
-
-2. Vue 应用 Vue 中的修饰符、自定义过滤器和指令、Vue 实例上的方法、Vue 中的生命周期、Axios 应用 async 和 await、vue-cli3.0 实战、render 方法详解和使用 jsx 语法
-
-3. 封装自己的 ElementUI 组件 什么是组件和组件的应用、组件的属性和校验、组件之间的通信、EventBus 应用、组件 slot 用法、封闭自己的树型组件、日历组件、异步加载的省市级联组件、基于 element-ui/iview 二次封装表格组件和树型组件、组件的单元测试和集成测试
-
-4. 路由篇 VueRouter 的基础应用、编程式导航、路由嵌套、路由守卫、路由元信息、实现动态权限菜单、按钮及权限认证、登录权限、手写实现 VueRouter 源码
-
-5. vuex vuex 应用(state、getter、mutation、action)、手写实现中的 state、getter、commit、dispatch、actions/mutations、模块化
-
-6. PWA manifest.json 配置、service worker 生命周期、fetch 请求拦截、cache api 以及缓存策略、Notification API、cache api 以及缓存策略、Notification API、workbox 应用、 Vue 实战 PWA
-
-7. Vue SSR 服务器端渲染 SSR 原理和设计理念、集成 koa 实现服务器端渲染、webpack 构建 Vue SSR 项目、集成路由及代码分割、集成 VueSSR 和 Vuex 实现数据同步
-
-8. 项目优化 路由懒加载、页面预渲染、SSR 原理和 Nuxt 实战、Vue 骨架屏、Vue-devtools 开发插件、Vue 动画原理
-
-9. Vue 全家桶项目 Vue-cli3.0 项目搭建、服务器构建(koa2+mongodb)、cube-ui 组件化实战、路由配置和动画、如何 Mock 后台数据、数据获取和 axios 应用拦截器、基于 JWT 的注册登录权限管理、公共组件封装、上拉刷新、下拉加载、图片懒加载、课程购买、微信和支付宝支付、使用 vuex 实现购物车、项目布署和上线
-
 ## React 全家桶
 
 ### 核心篇
